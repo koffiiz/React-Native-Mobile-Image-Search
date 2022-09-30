@@ -1,5 +1,5 @@
 
-# React Native / PixelBay Image Search
+# React Native / PixaBay Image Search
 
 Andriod and IOS Mobile Search Engine Powered by PixelBay
 
@@ -26,6 +26,7 @@ Andriod and IOS Mobile Search Engine Powered by PixelBay
 To run this project, you will need to add the following environment variables to your .env file
 
 `PIXABAY_API_KEY=30262660-a7ec5ff39383d2b9fc0dbd78c`
+
 `PIXABAY_API_URL=https://pixabay.com/api/`
 
 ## Deployment
